@@ -19,8 +19,10 @@ I care about performance, maintainability, and clean structure — not just “m
 
 #### 🧑‍🔬 Languages
 - 🟨 JavaScript (ES6+)
-- 🧪 TypeScript
 - 🌐 HTML5 / CSS3
+- 🟢 Node.js 
+- ☕ Java (learning)
+- 🚀 C++ (learning)
 
 #### 🧰 Libraries & Frameworks
 - ⚛️ React.js
@@ -31,7 +33,7 @@ I care about performance, maintainability, and clean structure — not just “m
 - 📮 Nodemailer (email delivery)
 - 🌿 MongoDB with Mongoose
 - 🐙 Git & GitHub
-- 📦 GZIP Compression (for network optimization)
+- 📦 GZIP/Brotli Compression (for network optimization)
 - 🎮 Canvas API (graphics & physics)
 
 #### ☁️ Deployment
@@ -44,17 +46,18 @@ I care about performance, maintainability, and clean structure — not just “m
 #### 📝 [Diurnal Chronique](https://github.com/Vishisht-Dwivedi/diurnal-chronique)
 > A minimal blog platform made for my college (IIIT Bhopal). It handles custom authentication, routing, and post management without relying on third-party services — with performance and clarity as top priorities.
 
-#### 🧾 [College Timetable Generator](https://github.com/Vishisht-Dwivedi/college-timetable-generator)
-> Generates clean, day-wise schedules for teachers by aggregating data across multiple classrooms. Built with code simplicity and reliability in mind.
-
 #### 🎳 [Physics Ball Simulation](https://github.com/Vishisht-Dwivedi/physics-ball-simulation)
 > A fully interactive canvas-based physics simulation that features real-time motion, collisions, and boundary checks. No libraries — just pure logic and math.
+> 
+#### 🧾 [College Timetable Generator](https://github.com/Vishisht-Dwivedi/college-timetable-generator)
+> Generates clean, day-wise schedules for teachers by aggregating data across multiple classrooms. Built with code simplicity and reliability in mind.
 
 ---
 
 ### 🌱 Currently Exploring
 
 - More advanced backend patterns
+- Real Time Systems using websockets
 - Clean code architecture
 - Preparing to enter the AI/ML domain (not there yet, but getting ready 💪)
 
