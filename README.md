@@ -51,10 +51,12 @@ I care about performance, maintainability, and clean structure — not just “m
 #### 🎳 [Physics Ball Simulation](https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls)
 > A fully interactive canvas-based physics simulation that features real-time motion, collisions, and boundary checks. No libraries — just pure logic and math.
 > 
-#### 🧾 [College Timetable Generator](https://github.com/Vishisht-Dwivedi/College-timeTable)
-> Generates clean, day-wise schedules for teachers by aggregating data across multiple classrooms. Built with code simplicity and reliability in mind.
-
 ---
+### 🛠️ Ongoing Projects
+
+- 🚧 **IEEE CS SBC Website** – A fully responsive, performance-optimized website for the IEEE Computer Society, IIIT Bhopal. Features dynamic content rendering, interactive canvas effects, and accessibility considerations. Deployment launching soon!
+- 
+- 🧾 [College Timetable Generator](https://github.com/Vishisht-Dwivedi/College-timeTable) - Generates clean, day-wise schedules for teachers by aggregating data across multiple classrooms. Built with code simplicity and reliability in mind.
 
 ### 🌱 Currently Exploring
 
