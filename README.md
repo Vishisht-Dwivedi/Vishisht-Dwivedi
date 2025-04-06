@@ -46,10 +46,10 @@ I care about performance, maintainability, and clean structure — not just “m
 #### 📝 [Diurnal Chronique](https://github.com/Vishisht-Dwivedi/diurnal-chronique)
 > A minimal blog platform made for my college (IIIT Bhopal). It handles custom authentication, routing, and post management without relying on third-party services — with performance and clarity as top priorities.
 
-#### 🎳 [Physics Ball Simulation](https://github.com/Vishisht-Dwivedi/physics-ball-simulation)
+#### 🎳 [Physics Ball Simulation](https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls)
 > A fully interactive canvas-based physics simulation that features real-time motion, collisions, and boundary checks. No libraries — just pure logic and math.
 > 
-#### 🧾 [College Timetable Generator](https://github.com/Vishisht-Dwivedi/college-timetable-generator)
+#### 🧾 [College Timetable Generator](https://github.com/Vishisht-Dwivedi/College-timeTable)
 > Generates clean, day-wise schedules for teachers by aggregating data across multiple classrooms. Built with code simplicity and reliability in mind.
 
 ---
