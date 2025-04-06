@@ -46,7 +46,7 @@ I care about performance, maintainability, and clean structure — not just “m
 ### 🚧 Featured Projects
 
 #### 📝 [Diurnal Chronique](https://github.com/Vishisht-Dwivedi/diurnal-chronique)
-> A minimal blog platform made for my college (IIIT Bhopal). It handles custom authentication, routing, and post management without relying on third-party services — with performance and clarity as top priorities.
+> An old style news website with live news articles, crypto-chart visualisations using D3.js, live weather updates, an arts and galleries section, a business section and a section to show the quotes of the day.
 
 #### 🎳 [Physics Ball Simulation](https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls)
 > A fully interactive canvas-based physics simulation that features real-time motion, collisions, and boundary checks. No libraries — just pure logic and math.
