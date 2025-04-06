@@ -1,4 +1,6 @@
-![ChatGPT Image Apr 6, 2025, 05_25_53 PM](https://github.com/user-attachments/assets/65f89702-ffe5-4baa-af89-4d1c4831f592)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65f89702-ffe5-4baa-af89-4d1c4831f592" alt="Vishisht's Avatar" width="300"/>
+</p>
 <h1 align="center">Hey there, I'm Vishisht 👋</h1>
 <p align="center">
   🧑‍💻 Computer Science Undergrad @ <b>IIIT Bhopal</b> (Batch of 2028)<br>
