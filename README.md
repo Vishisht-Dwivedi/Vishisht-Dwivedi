@@ -38,13 +38,13 @@ I care about performance, maintainability, and clean structure — not just “m
 - ⚛️ React.js
 - 🎨 Tailwind CSS, Bootstrap
 - 📊 D3.js (custom data visualizations)
+- 🎮 Canvas API (graphics & physics)
 
 #### 🧠 Backend & Tooling
 - 📮 Nodemailer (email delivery)
 - 🌿 MongoDB with Mongoose
 - 🐙 Git & GitHub
 - 📦 GZIP / Brotli Compression
-- 🎮 Canvas API (graphics & physics)
 
 #### ☁️ Deployment
 - 🚀 Heroku (project hosting)
