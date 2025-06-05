@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/65f89702-ffe5-4baa-af89-4d1c4831f592" alt="Vishisht's Avatar" width="250"/>
-</p>
-
 <h1 align="center">Hey, I'm Vishisht 👋</h1>
 
 <p align="center">
