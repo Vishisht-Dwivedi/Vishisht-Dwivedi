@@ -18,8 +18,8 @@
 
 ### 🚀 Featured Projects
 
-- **[College Timetable Generator](https://github.com/Vishisht-Dwivedi/College-timeTable)**  
-  Generates clean, day-wise faculty schedules by mapping data across classrooms. Built with validation, backlinking, and collision detection logic.
+- **[Academia Tempore](https://github.com/Vishisht-Dwivedi/Academia_Tempore)**  
+  A complete scheduling dashboard with clean, day-wise faculty schedules mapped across classrooms and managing slot-based updating. Built with validation, backlinking, and collision detection logic.
 
 - **[Diurnal Chronique](https://github.com/Vishisht-Dwivedi/diurnal-chronique)**  
   A retro-styled news portal with live crypto charts (D3.js), weather APIs, and curated content.
