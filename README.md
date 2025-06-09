@@ -20,7 +20,10 @@
 
 - **[Academia Tempore](https://github.com/Vishisht-Dwivedi/Academia_Tempore)**  
   A complete scheduling dashboard with clean, day-wise faculty schedules mapped across classrooms and managing slot-based updating. Built with validation, backlinking, and collision detection logic.
-
+  
+- **[IEEE CS SBC](https://github.com/Vishisht-Dwivedi/IIITB-IEEE-SBC)**  
+  This is the official website for the IEEE Student Branch Chapter at IIIT Bhopal. It serves as a platform to showcase events, announcements, and activities related to IEEE Computer Society within the institution. The website is built with a full-stack approach, utilizing React for the frontend and a backend to manage data.
+  
 - **[Diurnal Chronique](https://github.com/Vishisht-Dwivedi/diurnal-chronique)**  
   A retro-styled news portal with live crypto charts (D3.js), weather APIs, and curated content.
 
