@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Vishisht 👋</h1>
 
 <p align="center">
-  CS Undergrad @ <b>IIIT Bhopal</b> • Self-taught dev<br>
+  CSE Undergrad @ <b>IIIT Bhopal</b>
   Building clean, thoughtful software — one project at a time.
 </p>
 
