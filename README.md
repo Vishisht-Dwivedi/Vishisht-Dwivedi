@@ -48,12 +48,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vishisht-Dwivedi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+---
+
 <p align="center">
   <i>"Still learning — one project at a time."</i><br>
   <img src="https://komarev.com/ghpvc/?username=Vishisht-Dwivedi&style=flat-square&color=blue" alt="profile views" />
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishisht-Dwivedi/Vishisht-Dwivedi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishisht-Dwivedi/Vishisht-Dwivedi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vishisht-Dwivedi/Vishisht-Dwivedi/output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="center">Hey 👋What's Up?</h1>
