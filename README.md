@@ -52,3 +52,8 @@
   <i>"Still learning — one project at a time."</i><br>
   <img src="https://komarev.com/ghpvc/?username=Vishisht-Dwivedi&style=flat-square&color=blue" alt="profile views" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishisht-Dwivedi/Vishisht-Dwivedi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishisht-Dwivedi/Vishisht-Dwivedi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vishisht-Dwivedi/Vishisht-Dwivedi/output/pacman-contribution-graph.svg">
+</picture>
