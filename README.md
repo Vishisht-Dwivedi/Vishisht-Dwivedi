@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-SSOC-%235AD6A3?style=flat-square&logo=github&logoColor=white" alt="SSOC" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkashKumarKotha/Animated-Waves-README/main/waves.gif" width="100%" alt="Animated wave divider" />
-</p>
 
 <h2 align="center">🛠️ Tech Toolbox</h2>
 <p align="center">
@@ -37,9 +34,6 @@
   <b>Learning:</b> GraphQL, C++, Java
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkashKumarKotha/Animated-Waves-README/main/waves.gif" width="100%" alt="Animated wave divider" />
-</p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 <table align="center" width="100%">
@@ -69,9 +63,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkashKumarKotha/Animated-Waves-README/main/waves.gif" width="100%" alt="Animated wave divider" />
-</p>
 
 <h2 align="center">🔭 Currently Exploring</h2>
 <p align="center">
@@ -80,9 +71,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20%26%20SSOC-brightgreen?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkashKumarKotha/Animated-Waves-README/main/waves.gif" width="100%" alt="Animated wave divider" />
-</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
