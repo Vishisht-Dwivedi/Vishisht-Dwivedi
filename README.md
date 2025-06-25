@@ -74,11 +74,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishisht-Dwivedi&show_icons=true&theme=github_dark&hide_border=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishisht-Dwivedi&layout=compact&theme=github_dark&hide_border=true" height="140" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishisht-Dwivedi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=Vishisht-Dwivedi&show_icons=true&theme=radical" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Vishisht-Dwivedi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishisht-Dwivedi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
