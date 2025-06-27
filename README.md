@@ -36,32 +36,46 @@
 
 
 <h2 align="center">🚀 Featured Projects</h2>
-<table align="center" width="100%">
+<table align="center" width="100%" cellspacing="20" style="border-spacing: 20px;">
   <tr>
-    <td>
-      <b>🌟 <a href="https://github.com/Vishisht-Dwivedi/Academia_Tempore">Academia Tempore</a></b><br>
-      <sub>A full-stack scheduling dashboard developed for IIIT Bhopal's academic administration, enabling efficient management of classrooms, faculty, and subjects with built-in collision detection, schedule validation, and dynamic slot updates. The system features role-based access control and session-based authentication, and will be officially deployed by the institute for centralized scheduling operations. Built with Next.js, Express, GraphQL, MongoDB, and Tailwind, with frontend state handled via Zustand and backend logic modularized for scalability.</sub>
+    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/Academia_Tempore">Academia Tempore</a></h3>
+      <p>
+        A full-stack scheduling dashboard for IIIT Bhopal's academic administration, enabling efficient management of classrooms, faculty, and subjects with built-in collision detection, schedule validation, and dynamic slot updates. Features role-based access control, session-based authentication, and a modular, scalable backend.  
+        <br><b>Tech Stack:</b> Next.js, Express, GraphQL, MongoDB, Tailwind, Zustand
+      </p>
     </td>
   </tr>
   <tr>
-    <td>
-      <b>🌟 <a href="https://github.com/Vishisht-Dwivedi/IIITB-IEEE-SBC">IEEE CS SBC</a></b><br>
-      <sub>Official site for the IEEE Student Branch Chapter, IIIT Bhopal. Full-stack: React frontend + backend.</sub>
+    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/IIITB-IEEE-SBC">IEEE CS SBC Website</a></h3>
+      <p>
+        A responsive single-page application (SPA) for the IEEE CS SBC at IIIT Bhopal, with animated team sections, scroll-triggered transitions, and a dynamic timeline. Backend handles contact forms and email via Nodemailer.  
+        <br><b>Tech Stack:</b> React (Vite), Express.js, Canvas, Nodemailer, Scroll Animations
+      </p>
     </td>
   </tr>
   <tr>
-    <td>
-      <b>🌟 <a href="https://github.com/Vishisht-Dwivedi/diurnal-chronique">Diurnal Chronique</a></b><br>
-      <sub>Retro-style news portal with live crypto charts (D3.js), weather APIs, and curated content.</sub>
+    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/diurnal-chronique">Diurnal Chronique</a></h3>
+      <p>
+        A retro-themed news portal featuring real-time crypto visualizations with D3.js, weather data, and curated news feeds.  
+        <br><b>Tech Stack:</b> HTML, CSS, JavaScript, D3.js, REST APIs
+      </p>
     </td>
   </tr>
   <tr>
-    <td>
-      <b>🌟 <a href="https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls">Physics Ball Simulation</a></b><br>
-      <sub>Pure JS physics sandbox — simulates 2D collisions/motion/gravity without external libraries.</sub>
+    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls">Physics Ball Simulation</a></h3>
+      <p>
+        A pure JavaScript physics sandbox simulating 2D collisions, momentum, and gravity — no external libraries used.  
+        <br><b>Tech Stack:</b> HTML, CSS, Vanilla JS
+      </p>
     </td>
   </tr>
 </table>
+
+
 
 
 <h2 align="center">🔭 Currently Exploring</h2>
