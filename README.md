@@ -40,7 +40,7 @@
   <tr>
     <td>
       <b>🌟 <a href="https://github.com/Vishisht-Dwivedi/Academia_Tempore">Academia Tempore</a></b><br>
-      <sub>Official scheduling dashboard for IIIT Bhopal's faculty/classroom management with collision detection, slot updates, and validation. With role-based access and session based auth, will be put in use by the administration of IIIT Bhopal for its scheduling needs.</sub>
+      <sub>A full-stack scheduling dashboard developed for IIIT Bhopal's academic administration, enabling efficient management of classrooms, faculty, and subjects with built-in collision detection, schedule validation, and dynamic slot updates. The system features role-based access control and session-based authentication, and will be officially deployed by the institute for centralized scheduling operations. Built with Next.js, Express, GraphQL, MongoDB, and Tailwind, with frontend state handled via Zustand and backend logic modularized for scalability.</sub>
     </td>
   </tr>
   <tr>
