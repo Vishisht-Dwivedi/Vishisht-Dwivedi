@@ -40,7 +40,7 @@
   <tr>
     <td>
       <b>🌟 <a href="https://github.com/Vishisht-Dwivedi/Academia_Tempore">Academia Tempore</a></b><br>
-      <sub>A scheduling dashboard for faculty/classroom management with collision detection, slot updates, and validation.</sub>
+      <sub>Official scheduling dashboard for IIIT Bhopal's faculty/classroom management with collision detection, slot updates, and validation. With role-based access and session based auth, will be put in use by the administration of IIIT Bhopal for its scheduling needs.</sub>
     </td>
   </tr>
   <tr>
