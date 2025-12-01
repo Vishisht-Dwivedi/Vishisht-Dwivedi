@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat-square" />
 </p>
 <p align="center">
-  <b>Learning:</b> GraphQL, C++, Java
+  <b>Learning:</b> GraphQL, C++, Java, Go
 </p>
 
 
@@ -75,6 +75,23 @@
   </tr>
 </table>
 
+<h2 align="center">💼 Freelance Work</h2>
+
+<table align="center" width="100%" cellspacing="20" style="border-spacing: 20px;">
+  <tr>
+    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+      <h3><a href="https://www.laxmifinsec.com/"> Laxmi Finsec Consultancy </a></h3>
+      <p>
+        A production-ready modern website built for laxmi finsec consultancy Pvt. Ltd., focused on clean UI, strong branding, and reliability.  
+        <br><b>Tech Stack:</b> Next.js
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>More freelance work coming soon — open to collaborations!</i>
+</p>
 
 
 
