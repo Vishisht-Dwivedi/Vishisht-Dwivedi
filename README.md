@@ -83,7 +83,7 @@
       <h3><a href="https://www.laxmifinsec.com/"> Laxmi Finsec Consultancy </a></h3>
       <p>
         A production-ready modern website built for laxmi finsec consultancy Pvt. Ltd., focused on clean UI, strong branding, and reliability.  
-        <br><b>Tech Stack:</b> Next.js
+        <br><b>Tech Stack:</b> CRACO, React, Tailwind, Vanilla CSS
       </p>
     </td>
   </tr>
