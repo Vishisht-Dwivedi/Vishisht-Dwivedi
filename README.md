@@ -106,7 +106,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Vishisht-Dwivedi&theme=radical&fire=EB5454" alt="GitHub Streak" /></a> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishisht-Dwivedi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
