@@ -73,6 +73,15 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/Blob-Simulations">Blob Simulations</a></h3>
+      <p>
+         A pure Javascript canvas experiment that creates organic, animated blob shapes by deforming circles using sine waves in polar coordinates. Built for fun and exploration, with plans to introduce Perlin noise and more organic deformations.  
+        <br><b>Tech Stack:</b> HTML, CSS, Vanilla JS
+      </p>
+    </td>
+  </tr>
 </table>
 
 <h2 align="center">💼 Freelance Work</h2>
