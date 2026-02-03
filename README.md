@@ -96,6 +96,18 @@
       </p>
     </td>
   </tr>
+  <tr>
+  <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+    <h3>
+      <a href="https://www.rahulchaurasia.com/">Asst. Prof. Rahul Chaurasia: Personal Portfolio </a>
+    </h3>
+    <p>
+      Designed and developed a fast, responsive personal website for Prof. Rahul Chaurasia, showcasing academic profile, research interests, publications, and contact information with a clean and minimal interface.
+      <br><b>Tech Stack:</b> React, Next.JS, Tailwind CSS
+    </p>
+  </td>
+</tr>
+
 </table>
 
 <p align="center">
@@ -109,12 +121,6 @@
   <img src="https://img.shields.io/badge/Clean%20Backend%20Patterns-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/WebSockets-FFA500?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20%26%20SSOC-brightgreen?style=flat-square" />
-</p>
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Vishisht-Dwivedi&theme=radical&fire=EB5454" alt="GitHub Streak" /></a> <br>
 </p>
 
 ---
