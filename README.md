@@ -107,7 +107,17 @@
     </p>
   </td>
 </tr>
-
+<tr>
+  <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+    <h3>
+      <a href="https://www.manthanrehab.org/">Manthan Rehabilitation Center</a>
+    </h3>
+    <p>
+      Designed and Developed an extremely basic frontend based website designed to cater to the uninformed and semi-educated audience for getting information about Manthan Rehabilitation Center, Gwalior.
+      <br><b>Tech Stack:</b>React, Next.JS, Tailwind CSS
+    </p>
+  </td>
+</tr>
 </table>
 
 <p align="center">
