@@ -114,7 +114,7 @@
     </h3>
     <p>
       Designed and Developed an extremely basic frontend based website designed to cater to the uninformed and semi-educated audience for getting information about Manthan Rehabilitation Center, Gwalior.
-      <br><b>Tech Stack:</b>React, Next.JS, Tailwind CSS
+      <br><b>Tech Stack:</b> React, Next.JS, Tailwind CSS
     </p>
   </td>
 </tr>
