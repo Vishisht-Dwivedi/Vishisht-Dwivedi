@@ -82,6 +82,15 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+      <h3>🌟 <a href="https://vishisht-dwivedi.github.io/waves-simulation/">Organic Waves Simulation</a></h3>
+      <p>
+        A pure JavaScript wave simulator which builds upon the concept of superposed sine waves and mapped directionally towards the anchored edges based upon the nearest edge found via angle — no external libraries used.
+        <br><b>Tech Stack:</b> HTML, CSS, Vanilla JS
+      </p>
+    </td>
+  </tr>
 </table>
 
 <h2 align="center">💼 Freelance Work</h2>
