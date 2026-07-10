@@ -1,160 +1,69 @@
-<h1 align="center">Hey, I'm Vishisht 👋</h1>
+<h1 align="center">Vishisht Dwivedi</h1>
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Reactor+Pattern+Networking+in+C;Distributed+Systems+with+gRPC+and+Queues;Linux+Internals+and+Systems+Programming;Shipping+Production+Grade+Backend+Infra"/></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CSE+Undergrad+%40+IIIT+Bhopal;Building+clean%2C+thoughtful+software;Learning+one+project+at+a+time" alt="Typing SVG" />
+<a href="https://github.com/Vishisht-Dwivedi"><img src="https://img.shields.io/github/followers/Vishisht-Dwivedi?style=for-the-badge&logo=github&label=Follow&color=181717"/></a>
+<a href="mailto:vishishtdwivedi@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vishisht-dwivedi-066004311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Open_to-Internships-2ea44f?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Vishisht-Dwivedi&style=for-the-badge&color=36BCF7&label=VIEWS"/>
 </p>
+
+CS undergrad @ **IIIT Bhopal** who builds the layer underneath the app — hand-rolled TCP reactors, multithreaded filesystem daemons, gRPC/queue-driven microservice meshes. Load-tested, containerized, production-shaped — not tutorial code. **Hunting Systems / Backend / Infra internships.**
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Vishisht-Dwivedi?label=GitHub&style=social" alt="GitHub followers" />
-  <a href="mailto:vishishtdwivedi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC-%23f9d423?style=flat-square&logo=github&logoColor=white" alt="GSSoC" />
-  <img src="https://img.shields.io/badge/Open%20Source-SSOC-%235AD6A3?style=flat-square&logo=github&logoColor=white" alt="SSOC" />
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square"/><img src="https://img.shields.io/badge/BullMQ-CC0000?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white&style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
 </p>
 
+### ⚙️ Systems Engineering
 
-<h2 align="center">🛠️ Tech Toolbox</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Nodemailer-3C8C85?logo=nodedotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat-square" />
-</p>
-<p align="center">
-  <b>Learning:</b> GraphQL, C++, Java, Go
-</p>
+| Project | Under the hood | Stack |
+|---|---|---|
+| **[Velora](https://github.com/Vishisht-Dwivedi/Velora)** | Hand-rolled TCP engine — single-threaded **epoll reactor**, ring-buffered per-connection I/O, custom 8-byte binary frame (magic·version·type·flags·len) driving CONNECT/PING/STREAM_OPEN/PUBLISH opcodes, **256 multiplexed streams per socket**, connection table sized for **65,536 concurrent sockets**. Ships its own load-test rig — churn, concurrent-churn & Slowloris scripts to prove it survives. | `C` `epoll` `Linux` |
+| **[chronofs](https://github.com/Vishisht-Dwivedi/chronofs)** | Filesystem-watch **daemon** — recursive `inotify` trees, **thread-per-watcher** POSIX model bridged over **Unix Domain Socket IPC** to a CLI client, dynamic watcher (un)registration with auto-expansion into new subdirs, snapshot-commit versioning (rollback in progress). | `C` `pthreads` `inotify` |
 
+<sub>Root of it all: **[low-level-server](https://github.com/Vishisht-Dwivedi/low-level-server)** — raw TCP/UDP/WebRTC chatrooms + bare C sockets, the sandbox Velora grew out of.</sub>
 
-<h2 align="center">🚀 Featured Projects</h2>
-<table align="center" width="100%" cellspacing="20" style="border-spacing: 20px;">
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/Academia_Tempore">Academia Tempore</a></h3>
-      <p>
-        A full-stack scheduling dashboard for IIIT Bhopal's academic administration, enabling efficient management of classrooms, faculty, and subjects with built-in collision detection, schedule validation, and dynamic slot updates. Features role-based access control, jwt-based authentication, and a modular, scalable backend.  
-        <br><b>Tech Stack:</b> Next.js, Express, GraphQL, MongoDB, Tailwind, Zustand
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/IIITB-IEEE-SBC">IEEE CS SBC Website</a></h3>
-      <p>
-        A responsive single-page application (SPA) for the IEEE CS SBC at IIIT Bhopal, with animated team sections, scroll-triggered transitions, and a dynamic timeline. Backend handles contact forms and email via Nodemailer.  
-        <br><b>Tech Stack:</b> React (Vite), Express.js, Canvas, Nodemailer, Scroll Animations
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/diurnal-chronique">Diurnal Chronique</a></h3>
-      <p>
-        A retro-themed news portal featuring real-time crypto visualizations with D3.js, weather data, and curated news feeds.  
-        <br><b>Tech Stack:</b> HTML, CSS, JavaScript, D3.js, REST APIs
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/Blob-Simulations">Blob Simulations</a></h3>
-      <p>
-         A pure Javascript canvas experiment that creates organic, animated blob shapes by deforming circles using sine waves in polar coordinates. Built for fun and exploration, with plans to introduce Perlin noise and more organic deformations.  
-        <br><b>Tech Stack:</b> HTML, CSS, Vanilla JS
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3>🌟 <a href="https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls">Physics Ball Simulation</a></h3>
-      <p>
-        A pure JavaScript physics sandbox simulating 2D collisions, momentum, and gravity — no external libraries used.  
-        <br><b>Tech Stack:</b> HTML, CSS, Vanilla JS
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3>🌟 <a href="https://vishisht-dwivedi.github.io/waves-simulation/">Organic Waves Simulation</a></h3>
-      <p>
-        A pure JavaScript wave simulator which builds upon the concept of superposed sine waves and mapped directionally towards the anchored edges based upon the nearest edge found via angle — no external libraries used.
-        <br><b>Tech Stack:</b> HTML, CSS, Vanilla JS
-      </p>
-    </td>
-  </tr>
-</table>
+### 🕸️ Sermocino — distributed messaging platform
+**[github.com/Vishisht-Dwivedi/Sermocino](https://github.com/Vishisht-Dwivedi/Sermocino)** · pnpm monorepo, independently deployable services, polyglot-style comms:
 
-<h2 align="center">💼 Freelance Work</h2>
+```mermaid
+flowchart LR
+  B([Browser]) --> N[nginx Gateway]
+  N -->|/api/auth| A[Auth Service]
+  N -->|/*| WEB[Next.js App]
+  A <-->|gRPC CreateProfile| U[User Service]
+  A --> PG1[(Postgres: auth)]
+  U --> PG2[(Postgres: user)]
+  A -->|enqueue| R[(Redis)]
+  M[Media Service] -->|enqueue| R
+  R --> W[Media Worker]
+  W -->|worker_threads + sharp| O[(Storage)]
+```
+- **Fastify** services (`auth` · `user` · `media`) — independently deployable, each with auto-generated Swagger/OpenAPI docs
+- **gRPC + Protobuf** for internal RPC (auth service calls user service's `CreateProfile`), typed via a shared workspace package
+- **BullMQ over Redis** decouples slow work from the request path; `media-worker` further offloads CPU-bound transcoding to Node **worker_threads** running `sharp`
+- **nginx** gateway doing path-based routing across services + the Next.js frontend
+- **Postgres via Prisma**, schema-per-service (`auth`, `user`) — real data-ownership boundaries, not a shared blob
+- Auth hardened: bcrypt hashes, JWT + **rotating refresh tokens hashed at rest and revocable**, per-session device fingerprinting (IP/OS/browser/UA), OTP email verification
+- Dockerfile per service, root `compose.yaml` with healthchecks; shared Zod schemas + gRPC types give compile-time safety across service boundaries
 
-<table align="center" width="100%" cellspacing="20" style="border-spacing: 20px;">
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3><a href="https://www.laxmifinsec.com/"> Laxmi Finsec Consultancy </a></h3>
-      <p>
-        A production-ready modern website built for laxmi finsec consultancy Pvt. Ltd., focused on clean UI, strong branding, and reliability.  
-        <br><b>Tech Stack:</b> CRACO, React, Tailwind, Vanilla CSS
-      </p>
-    </td>
-  </tr>
-  <tr>
-  <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-    <h3>
-      <a href="https://www.rahulchaurasia.com/">Asst. Prof. Rahul Chaurasia: Personal Portfolio </a>
-    </h3>
-    <p>
-      Designed and developed a fast, responsive personal website for Prof. Rahul Chaurasia, showcasing academic profile, research interests, publications, and contact information with a clean and minimal interface.
-      <br><b>Tech Stack:</b> React, Next.JS, Tailwind CSS
-    </p>
-  </td>
-</tr>
-<tr>
-  <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-    <h3>
-      <a href="https://www.manthanrehab.org/">Manthan Rehabilitation Center</a>
-    </h3>
-    <p>
-      Designed and Developed an extremely basic frontend based website designed to cater to the uninformed and semi-educated audience for getting information about Manthan Rehabilitation Center, Gwalior.
-      <br><b>Tech Stack:</b> React, Next.JS, Tailwind CSS
-    </p>
-  </td>
-</tr>
-</table>
+### 🌐 Product Engineering
 
-<p align="center">
-  <i>More freelance work coming soon — open to collaborations!</i>
-</p>
+| Project | Details | Stack |
+|---|---|---|
+| **[Academia Tempore](https://github.com/Vishisht-Dwivedi/Academia_Tempore)** | Full-stack scheduling platform live for **IIIT Bhopal** — Apollo **GraphQL** API over MongoDB/Mongoose, JWT auth with **RBAC**, a collision-detection engine for clash-free timetables, Zustand state. | `Next.js 15` `Express 5` `GraphQL` `MongoDB` |
+| **Freelance** | [Laxmi Finsec](https://www.laxmifinsec.com/) · [Prof. Rahul Chaurasia](https://www.rahulchaurasia.com/) · [Manthan Rehab](https://www.manthanrehab.org/) — production sites shipped end-to-end for real clients. | `React` `Next.js` `Tailwind` |
 
+<sub>Also shipped: <a href="https://vishisht-dwivedi.github.io/waves-simulation/">waves-simulation</a> — sine-wave field renderer · <a href="https://github.com/Vishisht-Dwivedi/diurnal-chronique">diurnal-chronique</a> — retro news portal with live D3 crypto charts · <a href="https://github.com/Vishisht-Dwivedi/IIITB-IEEE-SBC">IEEE CS SBC site</a> — animated SPA w/ Nodemailer backend · <a href="https://github.com/Vishisht-Dwivedi/Blob-Simulations">Blob-Simulations</a> / <a href="https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls">Physics-Balls</a> — canvas physics, zero libraries</sub>
 
+### 🏆 Open Source & Campus
+<img src="https://img.shields.io/badge/GSSoC-Contributor-success?style=flat-square"/> <img src="https://img.shields.io/badge/SSOC-Contributor-success?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub-Pull_Shark_x2-8957e5?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IEEE_CS-Webmaster-00629B?style=flat-square"/> <img src="https://img.shields.io/badge/IIIT_Bhopal-Website_Cell%2C_Asst._Web_Lead-6f42c1?style=flat-square"/>
 
-<h2 align="center">🔭 Currently Exploring</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Backend%20Patterns-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSockets-FFA500?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20%26%20SSOC-brightgreen?style=flat-square" />
-</p>
+<table><tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Vishisht-Dwivedi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishisht-Dwivedi&layout=compact&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" width="100%"/></td>
+</tr></table>
 
----
-
-<h2 align="center">🤝 Connect with Me</h2>
-<p align="center">
-  <a href="mailto:vishishtdwivedi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishisht-dwivedi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>“Still learning — one project at a time.”</i><br>
-  <img src="https://komarev.com/ghpvc/?username=Vishisht-Dwivedi&style=flat-square&color=blue" alt="profile views" />
-</p>
+<p align="center"><i>Coffee, rain, music, and one project at a time.</i></p>
