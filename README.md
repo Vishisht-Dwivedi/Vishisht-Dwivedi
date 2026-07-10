@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Vishisht-Dwivedi"><img src="https://img.shields.io/github/followers/Vishisht-Dwivedi?style=for-the-badge&logo=github&label=Follow&color=181717"/></a>
-<a href="mailto:vishishtdwivedi@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:public.vishisht.dwivedi@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vishisht-dwivedi-066004311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Open_to-Internships-2ea44f?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Vishisht-Dwivedi&style=for-the-badge&color=36BCF7&label=VIEWS"/>
