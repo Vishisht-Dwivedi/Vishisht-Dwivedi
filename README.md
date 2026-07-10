@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=Vishisht-Dwivedi&style=for-the-badge&color=36BCF7&label=VIEWS"/>
 </p>
 
-CS undergrad @ **IIIT Bhopal** who builds the layer underneath the app — hand-rolled TCP reactors, multithreaded filesystem daemons, gRPC/queue-driven microservice meshes. Load-tested, containerized, production-shaped — not tutorial code. **Hunting Systems / Backend / Infra internships.**
+CS undergrad @ **IIIT Bhopal** who builds the layer underneath the app — hand-rolled TCP reactors, multithreaded filesystem daemons, gRPC/queue-driven microservice meshes. **Seeking Systems / Backend / Infra internships.**
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square"/><img src="https://img.shields.io/badge/BullMQ-CC0000?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white&style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square"/><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
@@ -20,7 +20,7 @@ CS undergrad @ **IIIT Bhopal** who builds the layer underneath the app — hand-
 
 | Project | Under the hood | Stack |
 |---|---|---|
-| **[Velora](https://github.com/Vishisht-Dwivedi/Velora)** | Hand-rolled TCP engine — single-threaded **epoll reactor**, ring-buffered per-connection I/O, custom 8-byte binary frame (magic·version·type·flags·len) driving CONNECT/PING/STREAM_OPEN/PUBLISH opcodes, **256 multiplexed streams per socket**, connection table sized for **65,536 concurrent sockets**. Ships its own load-test rig — churn, concurrent-churn & Slowloris scripts to prove it survives. | `C` `epoll` `Linux` |
+| **[Velora](https://github.com/Vishisht-Dwivedi/Velora)** | Hand-written TCP engine — single-threaded **epoll reactor**, ring-buffered per-connection I/O, custom 8-byte binary frame (magic·version·type·flags·len) driving CONNECT/PING/STREAM_OPEN/PUBLISH opcodes, **256 multiplexed streams per socket**, connection table sized for **65,536 concurrent sockets**. Ships its own load-test rig — churn, concurrent-churn & Slowloris scripts to prove it survives. | `C` `epoll` `Linux` |
 | **[chronofs](https://github.com/Vishisht-Dwivedi/chronofs)** | Filesystem-watch **daemon** — recursive `inotify` trees, **thread-per-watcher** POSIX model bridged over **Unix Domain Socket IPC** to a CLI client, dynamic watcher (un)registration with auto-expansion into new subdirs, snapshot-commit versioning (rollback in progress). | `C` `pthreads` `inotify` |
 
 <sub>Root of it all: **[low-level-server](https://github.com/Vishisht-Dwivedi/low-level-server)** — raw TCP/UDP/WebRTC chatrooms + bare C sockets, the sandbox Velora grew out of.</sub>
@@ -43,7 +43,7 @@ flowchart LR
 ```
 - **Fastify** services (`auth` · `user` · `media`) — independently deployable, each with auto-generated Swagger/OpenAPI docs
 - **gRPC + Protobuf** for internal RPC (auth service calls user service's `CreateProfile`), typed via a shared workspace package
-- **BullMQ over Redis** decouples slow work from the request path; `media-worker` further offloads CPU-bound transcoding to Node **worker_threads** running `sharp`
+- **BullMQ over Redis** decouples slow work from the request path; `media-worker` further offloads CPU-bound media-processing to Node **worker_threads** running `sharp`
 - **nginx** gateway doing path-based routing across services + the Next.js frontend
 - **Postgres via Prisma**, schema-per-service (`auth`, `user`) — real data-ownership boundaries, not a shared blob
 - Auth hardened: bcrypt hashes, JWT + **rotating refresh tokens hashed at rest and revocable**, per-session device fingerprinting (IP/OS/browser/UA), OTP email verification
@@ -53,7 +53,7 @@ flowchart LR
 
 | Project | Details | Stack |
 |---|---|---|
-| **[Academia Tempore](https://github.com/Vishisht-Dwivedi/Academia_Tempore)** | Full-stack scheduling platform live for **IIIT Bhopal** — Apollo **GraphQL** API over MongoDB/Mongoose, JWT auth with **RBAC**, a collision-detection engine for clash-free timetables, Zustand state. | `Next.js 15` `Express 5` `GraphQL` `MongoDB` |
+| **[Academia Tempore](https://github.com/Vishisht-Dwivedi/Academia_Tempore)** | Full-stack scheduling platform for **IIIT Bhopal** — Apollo **GraphQL** API over MongoDB/Mongoose, JWT auth with **RBAC**, a collision-detection engine for clash-free timetables, Zustand state. | `Next.js 15` `Express 5` `GraphQL` `MongoDB` |
 | **Freelance** | [Laxmi Finsec](https://www.laxmifinsec.com/) · [Prof. Rahul Chaurasia](https://www.rahulchaurasia.com/) · [Manthan Rehab](https://www.manthanrehab.org/) — production sites shipped end-to-end for real clients. | `React` `Next.js` `Tailwind` |
 
 <sub>Also shipped: <a href="https://vishisht-dwivedi.github.io/waves-simulation/">waves-simulation</a> — sine-wave field renderer · <a href="https://github.com/Vishisht-Dwivedi/diurnal-chronique">diurnal-chronique</a> — retro news portal with live D3 crypto charts · <a href="https://github.com/Vishisht-Dwivedi/IIITB-IEEE-SBC">IEEE CS SBC site</a> — animated SPA w/ Nodemailer backend · <a href="https://github.com/Vishisht-Dwivedi/Blob-Simulations">Blob-Simulations</a> / <a href="https://github.com/Vishisht-Dwivedi/Physics-simulation-using-balls">Physics-Balls</a> — canvas physics, zero libraries</sub>
@@ -61,9 +61,4 @@ flowchart LR
 ### 🏆 Open Source & Campus
 <img src="https://img.shields.io/badge/GSSoC-Contributor-success?style=flat-square"/> <img src="https://img.shields.io/badge/SSOC-Contributor-success?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub-Pull_Shark_x2-8957e5?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IEEE_CS-Webmaster-00629B?style=flat-square"/> <img src="https://img.shields.io/badge/IIIT_Bhopal-Website_Cell%2C_Asst._Web_Lead-6f42c1?style=flat-square"/>
 
-<table><tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Vishisht-Dwivedi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishisht-Dwivedi&layout=compact&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" width="100%"/></td>
-</tr></table>
-
-<p align="center"><i>Coffee, rain, music, and one project at a time.</i></p>
+<p align="center"><i>Coffee, rain, music and a black/blue wall of code</i></p>
